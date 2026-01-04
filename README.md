@@ -7,8 +7,8 @@ Full Stack Developer
 I have been into coding for 4+ years now. I love finding real time solutions to problems with the help of my code. Currently, I am working as a Senior Software Engineer in a MNC.
 
 * 🌍  I'm based in Noida
-* 🖥️  See my portfolio at [Nakesh Parashar](http://nakeshparashar.com)
-* ✉️  You can contact me at [nakesh.coder@gmail.com](mailto:nakesh.coder@gmail.com)
+* 🖥️  See my portfolio at [Nakesh Parashar](http://nakeshparashar.in)
+* ✉️  You can contact me at [nakesh.coder@gmail.com](mailto:sde.nakesh@gmail.com)
 * 🧠  I'm learning Aerospike DB
 * 🤝  I'm open to collaborating on Projects
 
