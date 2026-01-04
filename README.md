@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I have been into coding for 4+ years now. I love finding real time solutions to problems with the help of my code. Currently, I am working as a Senior Software Engineer in a MNC.
+I have been into coding for nearly 4 years now. I love finding real time solutions to problems with the help of my code. Currently, I am working as a SDE-III in a MNC.
 
 * 🌍  I'm based in Noida
 * 🖥️  See my portfolio at [Nakesh Parashar](http://nakeshparashar.in)
