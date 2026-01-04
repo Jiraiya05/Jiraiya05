@@ -8,7 +8,7 @@ I have been into coding for 4+ years now. I love finding real time solutions to 
 
 * 🌍  I'm based in Noida
 * 🖥️  See my portfolio at [Nakesh Parashar](http://nakeshparashar.in)
-* ✉️  You can contact me at [nakesh.coder@gmail.com](mailto:sde.nakesh@gmail.com)
+* ✉️  You can contact me at [sde.nakesh@gmail.com](mailto:sde.nakesh@gmail.com)
 * 🧠  I'm learning Aerospike DB
 * 🤝  I'm open to collaborating on Projects
 
